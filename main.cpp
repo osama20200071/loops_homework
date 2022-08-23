@@ -225,6 +225,9 @@ int main()
 //    Special_Sum();
 //    Pair_of_numbers();
 //    Pair_of_numbers_v2();
+    for (int i = 0; i < 5; ++i) {
+        cout << "hello\n" ;
+    }
 
 
 
